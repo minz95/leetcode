@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/minz95/leetcode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/minz95/leetcode/tree/master/0048-rotate-image) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,4 +55,12 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/minz95/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/minz95/leetcode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/minz95/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
