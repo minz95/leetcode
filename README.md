@@ -8,6 +8,7 @@
 | [0048-rotate-image](https://github.com/minz95/leetcode/tree/master/0048-rotate-image) |
 | [0139-word-break](https://github.com/minz95/leetcode/tree/master/0139-word-break) |
 | [0287-find-the-duplicate-number](https://github.com/minz95/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/minz95/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0739-daily-temperatures](https://github.com/minz95/leetcode/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
 |  |
@@ -94,4 +95,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/minz95/leetcode/tree/master/0739-daily-temperatures) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/minz95/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 <!---LeetCode Topics End-->
