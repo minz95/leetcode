@@ -8,6 +8,7 @@
 | [0048-rotate-image](https://github.com/minz95/leetcode/tree/master/0048-rotate-image) |
 | [0139-word-break](https://github.com/minz95/leetcode/tree/master/0139-word-break) |
 | [0287-find-the-duplicate-number](https://github.com/minz95/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0739-daily-temperatures](https://github.com/minz95/leetcode/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/minz95/leetcode/tree/master/0739-daily-temperatures) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/minz95/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Hash Table
 |  |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/minz95/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/minz95/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
