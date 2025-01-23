@@ -23,6 +23,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/minz95/leetcode/tree/master/0006-zigzag-conversion) |
 | [0139-word-break](https://github.com/minz95/leetcode/tree/master/0139-word-break) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/minz95/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Stack
