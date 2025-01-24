@@ -43,11 +43,13 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/minz95/leetcode/tree/master/0133-clone-graph) |
+| [0226-invert-binary-tree](https://github.com/minz95/leetcode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/minz95/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/minz95/leetcode/tree/master/0133-clone-graph) |
+| [0226-invert-binary-tree](https://github.com/minz95/leetcode/tree/master/0226-invert-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/minz95/leetcode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/minz95/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -63,6 +66,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/minz95/leetcode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/minz95/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
