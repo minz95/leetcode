@@ -8,6 +8,7 @@
 | [0048-rotate-image](https://github.com/minz95/leetcode/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/minz95/leetcode/tree/master/0057-insert-interval) |
 | [0139-word-break](https://github.com/minz95/leetcode/tree/master/0139-word-break) |
+| [0252-meeting-rooms](https://github.com/minz95/leetcode/tree/master/0252-meeting-rooms) |
 | [0287-find-the-duplicate-number](https://github.com/minz95/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/minz95/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0739-daily-temperatures](https://github.com/minz95/leetcode/tree/master/0739-daily-temperatures) |
@@ -113,4 +114,8 @@
 |  |
 | ------- |
 | [1017-odd-even-jump](https://github.com/minz95/leetcode/tree/master/1017-odd-even-jump) |
+## Sorting
+|  |
+| ------- |
+| [0252-meeting-rooms](https://github.com/minz95/leetcode/tree/master/0252-meeting-rooms) |
 <!---LeetCode Topics End-->
