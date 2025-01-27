@@ -35,6 +35,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/minz95/leetcode/tree/master/0006-zigzag-conversion) |
 | [0139-word-break](https://github.com/minz95/leetcode/tree/master/0139-word-break) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/minz95/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/minz95/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Stack
 |  |
@@ -55,6 +56,7 @@
 | [0133-clone-graph](https://github.com/minz95/leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/minz95/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/minz95/leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/minz95/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/minz95/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -62,6 +64,7 @@
 | [0133-clone-graph](https://github.com/minz95/leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/minz95/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/minz95/leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/minz95/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -71,6 +74,7 @@
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/minz95/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/minz95/leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/minz95/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/minz95/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -81,6 +85,7 @@
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/minz95/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/minz95/leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/minz95/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/minz95/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -146,4 +151,8 @@
 |  |
 | ------- |
 | [2479-meeting-rooms-iii](https://github.com/minz95/leetcode/tree/master/2479-meeting-rooms-iii) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/minz95/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
