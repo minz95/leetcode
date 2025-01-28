@@ -55,6 +55,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/minz95/leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/minz95/leetcode/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/minz95/leetcode/tree/master/0146-lru-cache) |
 | [2479-meeting-rooms-iii](https://github.com/minz95/leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Depth-First Search
 |  |
@@ -166,9 +167,18 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/minz95/leetcode/tree/master/0146-lru-cache) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/minz95/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Union Find
 |  |
 | ------- |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/minz95/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/minz95/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/minz95/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
