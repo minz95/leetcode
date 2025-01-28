@@ -19,6 +19,7 @@
 | [1017-odd-even-jump](https://github.com/minz95/leetcode/tree/master/1017-odd-even-jump) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/minz95/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2479-meeting-rooms-iii](https://github.com/minz95/leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/minz95/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0226-invert-binary-tree](https://github.com/minz95/leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/minz95/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/minz95/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/minz95/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/minz95/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/minz95/leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/minz95/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/minz95/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -103,6 +106,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/minz95/leetcode/tree/master/0048-rotate-image) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/minz95/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Trie
 |  |
 | ------- |
@@ -161,4 +165,8 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/minz95/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Union Find
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/minz95/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
