@@ -8,6 +8,7 @@
 | [0045-jump-game-ii](https://github.com/minz95/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/minz95/leetcode/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/minz95/leetcode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/minz95/leetcode/tree/master/0066-plus-one) |
 | [0139-word-break](https://github.com/minz95/leetcode/tree/master/0139-word-break) |
 | [0252-meeting-rooms](https://github.com/minz95/leetcode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/minz95/leetcode/tree/master/0253-meeting-rooms-ii) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/minz95/leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/minz95/leetcode/tree/master/0066-plus-one) |
 ## Matrix
 |  |
 | ------- |
