@@ -18,6 +18,7 @@
 | [0377-combination-sum-iv](https://github.com/minz95/leetcode/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/minz95/leetcode/tree/master/0403-frog-jump) |
 | [0465-optimal-account-balancing](https://github.com/minz95/leetcode/tree/master/0465-optimal-account-balancing) |
+| [0658-find-k-closest-elements](https://github.com/minz95/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/minz95/leetcode/tree/master/0739-daily-temperatures) |
 | [1017-odd-even-jump](https://github.com/minz95/leetcode/tree/master/1017-odd-even-jump) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/minz95/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -129,10 +130,12 @@
 | [0042-trapping-rain-water](https://github.com/minz95/leetcode/tree/master/0042-trapping-rain-water) |
 | [0253-meeting-rooms-ii](https://github.com/minz95/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/minz95/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0658-find-k-closest-elements](https://github.com/minz95/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/minz95/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0658-find-k-closest-elements](https://github.com/minz95/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/minz95/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Bit Manipulation
 |  |
@@ -151,6 +154,7 @@
 | [0239-sliding-window-maximum](https://github.com/minz95/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/minz95/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/minz95/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0658-find-k-closest-elements](https://github.com/minz95/leetcode/tree/master/0658-find-k-closest-elements) |
 | [2479-meeting-rooms-iii](https://github.com/minz95/leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Ordered Set
 |  |
@@ -161,6 +165,7 @@
 | ------- |
 | [0252-meeting-rooms](https://github.com/minz95/leetcode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/minz95/leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0658-find-k-closest-elements](https://github.com/minz95/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/minz95/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2479-meeting-rooms-iii](https://github.com/minz95/leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Prefix Sum
@@ -205,6 +210,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/minz95/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/minz95/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0658-find-k-closest-elements](https://github.com/minz95/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
