@@ -10,6 +10,7 @@
 | [0057-insert-interval](https://github.com/minz95/leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/minz95/leetcode/tree/master/0066-plus-one) |
 | [0139-word-break](https://github.com/minz95/leetcode/tree/master/0139-word-break) |
+| [0209-minimum-size-subarray-sum](https://github.com/minz95/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/minz95/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0252-meeting-rooms](https://github.com/minz95/leetcode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/minz95/leetcode/tree/master/0253-meeting-rooms-ii) |
@@ -134,6 +135,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/minz95/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/minz95/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/minz95/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/minz95/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -171,6 +173,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/minz95/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0253-meeting-rooms-ii](https://github.com/minz95/leetcode/tree/master/0253-meeting-rooms-ii) |
 ## Simulation
 |  |
@@ -208,6 +211,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/minz95/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/minz95/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/minz95/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/minz95/leetcode/tree/master/0658-find-k-closest-elements) |
