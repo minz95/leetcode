@@ -22,6 +22,7 @@
 | [0658-find-k-closest-elements](https://github.com/minz95/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/minz95/leetcode/tree/master/0739-daily-temperatures) |
 | [0794-swim-in-rising-water](https://github.com/minz95/leetcode/tree/master/0794-swim-in-rising-water) |
+| [0917-boats-to-save-people](https://github.com/minz95/leetcode/tree/master/0917-boats-to-save-people) |
 | [1017-odd-even-jump](https://github.com/minz95/leetcode/tree/master/1017-odd-even-jump) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/minz95/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2479-meeting-rooms-iii](https://github.com/minz95/leetcode/tree/master/2479-meeting-rooms-iii) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/minz95/leetcode/tree/master/0045-jump-game-ii) |
 | [0253-meeting-rooms-ii](https://github.com/minz95/leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0917-boats-to-save-people](https://github.com/minz95/leetcode/tree/master/0917-boats-to-save-people) |
 ## String
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 | [0253-meeting-rooms-ii](https://github.com/minz95/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/minz95/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/minz95/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0917-boats-to-save-people](https://github.com/minz95/leetcode/tree/master/0917-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -180,6 +183,7 @@
 | [0252-meeting-rooms](https://github.com/minz95/leetcode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/minz95/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0658-find-k-closest-elements](https://github.com/minz95/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0917-boats-to-save-people](https://github.com/minz95/leetcode/tree/master/0917-boats-to-save-people) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/minz95/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2479-meeting-rooms-iii](https://github.com/minz95/leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Prefix Sum
