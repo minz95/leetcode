@@ -30,6 +30,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/minz95/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2479-meeting-rooms-iii](https://github.com/minz95/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/minz95/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3429-special-array-i](https://github.com/minz95/leetcode/tree/master/3429-special-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
