@@ -227,6 +227,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/minz95/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0146-lru-cache](https://github.com/minz95/leetcode/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
 |  |
@@ -257,4 +258,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/minz95/leetcode/tree/master/0239-sliding-window-maximum) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/minz95/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
