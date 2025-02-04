@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/minz95/leetcode/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/minz95/leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/minz95/leetcode/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/minz95/leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/minz95/leetcode/tree/master/0139-word-break) |
 | [0209-minimum-size-subarray-sum](https://github.com/minz95/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/minz95/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/minz95/leetcode/tree/master/0006-zigzag-conversion) |
+| [0079-word-search](https://github.com/minz95/leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/minz95/leetcode/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/minz95/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/minz95/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -87,6 +89,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/minz95/leetcode/tree/master/0079-word-search) |
 | [0133-clone-graph](https://github.com/minz95/leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/minz95/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/minz95/leetcode/tree/master/0226-invert-binary-tree) |
@@ -145,6 +148,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/minz95/leetcode/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/minz95/leetcode/tree/master/0079-word-search) |
 | [0794-swim-in-rising-water](https://github.com/minz95/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/minz95/leetcode/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/minz95/leetcode/tree/master/1036-rotting-oranges) |
@@ -248,6 +252,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/minz95/leetcode/tree/master/0079-word-search) |
 | [0465-optimal-account-balancing](https://github.com/minz95/leetcode/tree/master/0465-optimal-account-balancing) |
 ## Bitmask
 |  |
