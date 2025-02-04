@@ -29,6 +29,7 @@
 | [0917-boats-to-save-people](https://github.com/minz95/leetcode/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/minz95/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1017-odd-even-jump](https://github.com/minz95/leetcode/tree/master/1017-odd-even-jump) |
+| [1036-rotting-oranges](https://github.com/minz95/leetcode/tree/master/1036-rotting-oranges) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/minz95/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/minz95/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/minz95/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -104,6 +105,7 @@
 | [0684-redundant-connection](https://github.com/minz95/leetcode/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/minz95/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/minz95/leetcode/tree/master/0854-making-a-large-island) |
+| [1036-rotting-oranges](https://github.com/minz95/leetcode/tree/master/1036-rotting-oranges) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/minz95/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
@@ -144,6 +146,7 @@
 | [0048-rotate-image](https://github.com/minz95/leetcode/tree/master/0048-rotate-image) |
 | [0794-swim-in-rising-water](https://github.com/minz95/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/minz95/leetcode/tree/master/0854-making-a-large-island) |
+| [1036-rotting-oranges](https://github.com/minz95/leetcode/tree/master/1036-rotting-oranges) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/minz95/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Trie
 |  |
