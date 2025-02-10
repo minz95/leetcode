@@ -8,5 +8,4 @@ class Solution:
         for i in range(len(nums)-size+1):
             diff = nums[i+size-1] - nums[i]
             min_diff = min(min_diff, diff)
-            print(diff)
         return min_diff
