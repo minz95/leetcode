@@ -112,6 +112,7 @@
 | [0226-invert-binary-tree](https://github.com/minz95/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/minz95/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/minz95/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/minz95/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/minz95/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/minz95/leetcode/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/minz95/leetcode/tree/master/0794-swim-in-rising-water) |
@@ -143,6 +144,7 @@
 | [0226-invert-binary-tree](https://github.com/minz95/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/minz95/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/minz95/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/minz95/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/minz95/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -155,6 +157,7 @@
 | [0226-invert-binary-tree](https://github.com/minz95/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/minz95/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/minz95/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/minz95/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/minz95/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
