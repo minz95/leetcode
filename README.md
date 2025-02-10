@@ -57,6 +57,7 @@
 | [0465-optimal-account-balancing](https://github.com/minz95/leetcode/tree/master/0465-optimal-account-balancing) |
 | [1017-odd-even-jump](https://github.com/minz95/leetcode/tree/master/1017-odd-even-jump) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/minz95/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/minz95/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/minz95/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/minz95/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/minz95/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/minz95/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/minz95/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/minz95/leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/minz95/leetcode/tree/master/3447-clear-digits) |
@@ -98,6 +100,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/minz95/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/minz95/leetcode/tree/master/0496-next-greater-element-i) |
 | [1364-tuple-with-same-product](https://github.com/minz95/leetcode/tree/master/1364-tuple-with-same-product) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/minz95/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/minz95/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/minz95/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/minz95/leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -214,6 +217,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/minz95/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0465-optimal-account-balancing](https://github.com/minz95/leetcode/tree/master/0465-optimal-account-balancing) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/minz95/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
