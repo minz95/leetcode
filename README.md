@@ -79,6 +79,7 @@
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/minz95/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/minz95/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/minz95/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/minz95/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/minz95/leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/minz95/leetcode/tree/master/3447-clear-digits) |
 ## Stack
@@ -89,6 +90,7 @@
 | [0739-daily-temperatures](https://github.com/minz95/leetcode/tree/master/0739-daily-temperatures) |
 | [1017-odd-even-jump](https://github.com/minz95/leetcode/tree/master/1017-odd-even-jump) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/minz95/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/minz95/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/minz95/leetcode/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
@@ -265,6 +267,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/minz95/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2479-meeting-rooms-iii](https://github.com/minz95/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/minz95/leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/minz95/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
