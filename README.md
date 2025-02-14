@@ -86,6 +86,7 @@
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/minz95/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/minz95/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/minz95/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1949-implement-trie-ii-prefix-tree](https://github.com/minz95/leetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/minz95/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/minz95/leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/minz95/leetcode/tree/master/3447-clear-digits) |
@@ -112,6 +113,7 @@
 | [1364-tuple-with-same-product](https://github.com/minz95/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/minz95/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/minz95/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1949-implement-trie-ii-prefix-tree](https://github.com/minz95/leetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2434-design-a-number-container-system](https://github.com/minz95/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/minz95/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/minz95/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -204,6 +206,7 @@
 | ------- |
 | [0139-word-break](https://github.com/minz95/leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/minz95/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [1949-implement-trie-ii-prefix-tree](https://github.com/minz95/leetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -301,6 +304,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/minz95/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/minz95/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/minz95/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1949-implement-trie-ii-prefix-tree](https://github.com/minz95/leetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2434-design-a-number-container-system](https://github.com/minz95/leetcode/tree/master/2434-design-a-number-container-system) |
 ## Union Find
 |  |
