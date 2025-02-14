@@ -36,6 +36,7 @@
 | [1242-matrix-block-sum](https://github.com/minz95/leetcode/tree/master/1242-matrix-block-sum) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/minz95/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1364-tuple-with-same-product](https://github.com/minz95/leetcode/tree/master/1364-tuple-with-same-product) |
+| [1477-product-of-the-last-k-numbers](https://github.com/minz95/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/minz95/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/minz95/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/minz95/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -185,6 +186,7 @@
 | [0048-rotate-image](https://github.com/minz95/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/minz95/leetcode/tree/master/0066-plus-one) |
 | [1014-k-closest-points-to-origin](https://github.com/minz95/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1477-product-of-the-last-k-numbers](https://github.com/minz95/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/minz95/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Matrix
 |  |
@@ -277,6 +279,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/minz95/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0253-meeting-rooms-ii](https://github.com/minz95/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [1242-matrix-block-sum](https://github.com/minz95/leetcode/tree/master/1242-matrix-block-sum) |
+| [1477-product-of-the-last-k-numbers](https://github.com/minz95/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/minz95/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1983-maximum-population-year](https://github.com/minz95/leetcode/tree/master/1983-maximum-population-year) |
 | [3034-points-that-intersect-with-cars](https://github.com/minz95/leetcode/tree/master/3034-points-that-intersect-with-cars) |
@@ -295,6 +298,7 @@
 | [0146-lru-cache](https://github.com/minz95/leetcode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/minz95/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/minz95/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1477-product-of-the-last-k-numbers](https://github.com/minz95/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/minz95/leetcode/tree/master/2434-design-a-number-container-system) |
 ## Union Find
 |  |
@@ -367,4 +371,8 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/minz95/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1983-maximum-population-year](https://github.com/minz95/leetcode/tree/master/1983-maximum-population-year) |
 | [2448-count-number-of-bad-pairs](https://github.com/minz95/leetcode/tree/master/2448-count-number-of-bad-pairs) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/minz95/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
