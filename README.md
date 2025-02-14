@@ -185,6 +185,7 @@
 | [0009-palindrome-number](https://github.com/minz95/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/minz95/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/minz95/leetcode/tree/master/0066-plus-one) |
+| [0910-nth-magical-number](https://github.com/minz95/leetcode/tree/master/0910-nth-magical-number) |
 | [1014-k-closest-points-to-origin](https://github.com/minz95/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1477-product-of-the-last-k-numbers](https://github.com/minz95/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/minz95/leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -226,6 +227,7 @@
 | [0658-find-k-closest-elements](https://github.com/minz95/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0794-swim-in-rising-water](https://github.com/minz95/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/minz95/leetcode/tree/master/0907-koko-eating-bananas) |
+| [0910-nth-magical-number](https://github.com/minz95/leetcode/tree/master/0910-nth-magical-number) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/minz95/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Bit Manipulation
 |  |
