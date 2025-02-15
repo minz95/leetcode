@@ -191,6 +191,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/minz95/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1477-product-of-the-last-k-numbers](https://github.com/minz95/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/minz95/leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/minz95/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Matrix
 |  |
 | ------- |
@@ -328,6 +329,7 @@
 | [0079-word-search](https://github.com/minz95/leetcode/tree/master/0079-word-search) |
 | [0465-optimal-account-balancing](https://github.com/minz95/leetcode/tree/master/0465-optimal-account-balancing) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/minz95/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/minz95/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bitmask
 |  |
 | ------- |
