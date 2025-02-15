@@ -33,6 +33,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/minz95/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1017-odd-even-jump](https://github.com/minz95/leetcode/tree/master/1017-odd-even-jump) |
 | [1036-rotting-oranges](https://github.com/minz95/leetcode/tree/master/1036-rotting-oranges) |
+| [1129-longest-string-chain](https://github.com/minz95/leetcode/tree/master/1129-longest-string-chain) |
 | [1242-matrix-block-sum](https://github.com/minz95/leetcode/tree/master/1242-matrix-block-sum) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/minz95/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1364-tuple-with-same-product](https://github.com/minz95/leetcode/tree/master/1364-tuple-with-same-product) |
@@ -62,6 +63,7 @@
 | [0465-optimal-account-balancing](https://github.com/minz95/leetcode/tree/master/0465-optimal-account-balancing) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/minz95/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1017-odd-even-jump](https://github.com/minz95/leetcode/tree/master/1017-odd-even-jump) |
+| [1129-longest-string-chain](https://github.com/minz95/leetcode/tree/master/1129-longest-string-chain) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/minz95/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/minz95/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Greedy
@@ -83,6 +85,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/minz95/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/minz95/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/minz95/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1129-longest-string-chain](https://github.com/minz95/leetcode/tree/master/1129-longest-string-chain) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/minz95/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/minz95/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/minz95/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -110,6 +113,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/minz95/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/minz95/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/minz95/leetcode/tree/master/0496-next-greater-element-i) |
+| [1129-longest-string-chain](https://github.com/minz95/leetcode/tree/master/1129-longest-string-chain) |
 | [1364-tuple-with-same-product](https://github.com/minz95/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/minz95/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/minz95/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -222,6 +226,7 @@
 | [0611-valid-triangle-number](https://github.com/minz95/leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/minz95/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/minz95/leetcode/tree/master/0917-boats-to-save-people) |
+| [1129-longest-string-chain](https://github.com/minz95/leetcode/tree/master/1129-longest-string-chain) |
 ## Binary Search
 |  |
 | ------- |
@@ -275,6 +280,7 @@
 | [0658-find-k-closest-elements](https://github.com/minz95/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/minz95/leetcode/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/minz95/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1129-longest-string-chain](https://github.com/minz95/leetcode/tree/master/1129-longest-string-chain) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/minz95/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/minz95/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/minz95/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
