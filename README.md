@@ -38,6 +38,7 @@
 | [1352-maximum-profit-in-job-scheduling](https://github.com/minz95/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1364-tuple-with-same-product](https://github.com/minz95/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/minz95/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/minz95/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/minz95/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/minz95/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/minz95/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -101,6 +102,7 @@
 | [0739-daily-temperatures](https://github.com/minz95/leetcode/tree/master/0739-daily-temperatures) |
 | [1017-odd-even-jump](https://github.com/minz95/leetcode/tree/master/1017-odd-even-jump) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/minz95/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/minz95/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/minz95/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/minz95/leetcode/tree/master/3447-clear-digits) |
 ## Hash Table
@@ -311,6 +313,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/minz95/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/minz95/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/minz95/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/minz95/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/minz95/leetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2434-design-a-number-container-system](https://github.com/minz95/leetcode/tree/master/2434-design-a-number-container-system) |
 ## Union Find
