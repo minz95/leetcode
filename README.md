@@ -60,6 +60,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/minz95/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/minz95/leetcode/tree/master/0045-jump-game-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/minz95/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/minz95/leetcode/tree/master/0139-word-break) |
 | [0377-combination-sum-iv](https://github.com/minz95/leetcode/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/minz95/leetcode/tree/master/0403-frog-jump) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/minz95/leetcode/tree/master/0079-word-search) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/minz95/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/minz95/leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/minz95/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/minz95/leetcode/tree/master/0207-course-schedule) |
@@ -168,6 +170,7 @@
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/minz95/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/minz95/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/minz95/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/minz95/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -181,6 +184,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/minz95/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/minz95/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/minz95/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/minz95/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
