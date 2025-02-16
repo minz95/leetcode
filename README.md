@@ -22,6 +22,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/minz95/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0465-optimal-account-balancing](https://github.com/minz95/leetcode/tree/master/0465-optimal-account-balancing) |
 | [0496-next-greater-element-i](https://github.com/minz95/leetcode/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/minz95/leetcode/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/minz95/leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/minz95/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/minz95/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -77,6 +78,7 @@
 | [0045-jump-game-ii](https://github.com/minz95/leetcode/tree/master/0045-jump-game-ii) |
 | [0253-meeting-rooms-ii](https://github.com/minz95/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/minz95/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/minz95/leetcode/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/minz95/leetcode/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/minz95/leetcode/tree/master/0917-boats-to-save-people) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/minz95/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -270,6 +272,7 @@
 | [0239-sliding-window-maximum](https://github.com/minz95/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/minz95/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/minz95/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0502-ipo](https://github.com/minz95/leetcode/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/minz95/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0794-swim-in-rising-water](https://github.com/minz95/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1014-k-closest-points-to-origin](https://github.com/minz95/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -288,6 +291,7 @@
 | [0252-meeting-rooms](https://github.com/minz95/leetcode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/minz95/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/minz95/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/minz95/leetcode/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/minz95/leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/minz95/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/minz95/leetcode/tree/master/0917-boats-to-save-people) |
