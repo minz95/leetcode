@@ -6,6 +6,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/minz95/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/minz95/leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/minz95/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/minz95/leetcode/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/minz95/leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/minz95/leetcode/tree/master/0066-plus-one) |
@@ -359,6 +360,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/minz95/leetcode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/minz95/leetcode/tree/master/0079-word-search) |
 | [0465-optimal-account-balancing](https://github.com/minz95/leetcode/tree/master/0465-optimal-account-balancing) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/minz95/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
