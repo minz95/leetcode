@@ -63,6 +63,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/minz95/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/minz95/leetcode/tree/master/0045-jump-game-ii) |
+| [0072-edit-distance](https://github.com/minz95/leetcode/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/minz95/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/minz95/leetcode/tree/master/0139-word-break) |
 | [0377-combination-sum-iv](https://github.com/minz95/leetcode/tree/master/0377-combination-sum-iv) |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/minz95/leetcode/tree/master/0006-zigzag-conversion) |
+| [0072-edit-distance](https://github.com/minz95/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/minz95/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/minz95/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/minz95/leetcode/tree/master/0125-valid-palindrome) |
