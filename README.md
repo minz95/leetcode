@@ -88,6 +88,7 @@
 | [0006-zigzag-conversion](https://github.com/minz95/leetcode/tree/master/0006-zigzag-conversion) |
 | [0076-minimum-window-substring](https://github.com/minz95/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/minz95/leetcode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/minz95/leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/minz95/leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/minz95/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/minz95/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -240,6 +241,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/minz95/leetcode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/minz95/leetcode/tree/master/0125-valid-palindrome) |
 | [0253-meeting-rooms-ii](https://github.com/minz95/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/minz95/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/minz95/leetcode/tree/master/0344-reverse-string) |
