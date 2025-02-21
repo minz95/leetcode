@@ -29,6 +29,7 @@
 | [0611-valid-triangle-number](https://github.com/minz95/leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/minz95/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/minz95/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0720-longest-word-in-dictionary](https://github.com/minz95/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/minz95/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/minz95/leetcode/tree/master/0739-daily-temperatures) |
 | [0787-sliding-puzzle](https://github.com/minz95/leetcode/tree/master/0787-sliding-puzzle) |
@@ -108,6 +109,7 @@
 | [0344-reverse-string](https://github.com/minz95/leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/minz95/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/minz95/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0720-longest-word-in-dictionary](https://github.com/minz95/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1129-longest-string-chain](https://github.com/minz95/leetcode/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/minz95/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/minz95/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -143,6 +145,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/minz95/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/minz95/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/minz95/leetcode/tree/master/0496-next-greater-element-i) |
+| [0720-longest-word-in-dictionary](https://github.com/minz95/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1129-longest-string-chain](https://github.com/minz95/leetcode/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/minz95/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/minz95/leetcode/tree/master/1364-tuple-with-same-product) |
@@ -259,6 +262,7 @@
 | ------- |
 | [0139-word-break](https://github.com/minz95/leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/minz95/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0720-longest-word-in-dictionary](https://github.com/minz95/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/minz95/leetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 ## Memoization
 |  |
@@ -332,6 +336,7 @@
 | [0502-ipo](https://github.com/minz95/leetcode/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/minz95/leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/minz95/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0720-longest-word-in-dictionary](https://github.com/minz95/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0917-boats-to-save-people](https://github.com/minz95/leetcode/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/minz95/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1129-longest-string-chain](https://github.com/minz95/leetcode/tree/master/1129-longest-string-chain) |
