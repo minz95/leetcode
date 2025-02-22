@@ -110,6 +110,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/minz95/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/minz95/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0720-longest-word-in-dictionary](https://github.com/minz95/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/minz95/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1129-longest-string-chain](https://github.com/minz95/leetcode/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/minz95/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/minz95/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -178,6 +179,7 @@
 | [0684-redundant-connection](https://github.com/minz95/leetcode/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/minz95/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/minz95/leetcode/tree/master/0854-making-a-large-island) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/minz95/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/minz95/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/minz95/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
@@ -213,6 +215,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/minz95/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/minz95/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/minz95/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/minz95/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/minz95/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## String Matching
 |  |
@@ -230,6 +233,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/minz95/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/minz95/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/minz95/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/minz95/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/minz95/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Hash Function
 |  |
