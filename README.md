@@ -50,6 +50,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/minz95/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/minz95/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/minz95/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/minz95/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/minz95/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/minz95/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/minz95/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -84,6 +85,7 @@
 | [1017-odd-even-jump](https://github.com/minz95/leetcode/tree/master/1017-odd-even-jump) |
 | [1129-longest-string-chain](https://github.com/minz95/leetcode/tree/master/1129-longest-string-chain) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/minz95/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/minz95/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/minz95/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Greedy
 |  |
@@ -257,6 +259,7 @@
 | [0910-nth-magical-number](https://github.com/minz95/leetcode/tree/master/0910-nth-magical-number) |
 | [1014-k-closest-points-to-origin](https://github.com/minz95/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1477-product-of-the-last-k-numbers](https://github.com/minz95/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/minz95/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/minz95/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/minz95/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Matrix
@@ -366,6 +369,7 @@
 | [1242-matrix-block-sum](https://github.com/minz95/leetcode/tree/master/1242-matrix-block-sum) |
 | [1477-product-of-the-last-k-numbers](https://github.com/minz95/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/minz95/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/minz95/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1983-maximum-population-year](https://github.com/minz95/leetcode/tree/master/1983-maximum-population-year) |
 | [3034-points-that-intersect-with-cars](https://github.com/minz95/leetcode/tree/master/3034-points-that-intersect-with-cars) |
 ## Simulation
