@@ -492,4 +492,8 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/minz95/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/minz95/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/minz95/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
