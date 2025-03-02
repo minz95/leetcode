@@ -62,6 +62,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/minz95/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/minz95/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/minz95/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/minz95/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/minz95/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3034-points-that-intersect-with-cars](https://github.com/minz95/leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/minz95/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -172,6 +173,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/minz95/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/minz95/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/minz95/leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/minz95/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3034-points-that-intersect-with-cars](https://github.com/minz95/leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/minz95/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Depth-First Search
@@ -307,6 +309,7 @@
 | [0917-boats-to-save-people](https://github.com/minz95/leetcode/tree/master/0917-boats-to-save-people) |
 | [1129-longest-string-chain](https://github.com/minz95/leetcode/tree/master/1129-longest-string-chain) |
 | [1894-merge-strings-alternately](https://github.com/minz95/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/minz95/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
 | ------- |
