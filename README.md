@@ -24,6 +24,7 @@
 | [0403-frog-jump](https://github.com/minz95/leetcode/tree/master/0403-frog-jump) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/minz95/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0465-optimal-account-balancing](https://github.com/minz95/leetcode/tree/master/0465-optimal-account-balancing) |
+| [0490-the-maze](https://github.com/minz95/leetcode/tree/master/0490-the-maze) |
 | [0496-next-greater-element-i](https://github.com/minz95/leetcode/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/minz95/leetcode/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/minz95/leetcode/tree/master/0611-valid-triangle-number) |
@@ -190,6 +191,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/minz95/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/minz95/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/minz95/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0490-the-maze](https://github.com/minz95/leetcode/tree/master/0490-the-maze) |
 | [0543-diameter-of-binary-tree](https://github.com/minz95/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/minz95/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/minz95/leetcode/tree/master/0684-redundant-connection) |
@@ -207,6 +209,7 @@
 | [0207-course-schedule](https://github.com/minz95/leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/minz95/leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/minz95/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0490-the-maze](https://github.com/minz95/leetcode/tree/master/0490-the-maze) |
 | [0684-redundant-connection](https://github.com/minz95/leetcode/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/minz95/leetcode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/minz95/leetcode/tree/master/0794-swim-in-rising-water) |
@@ -278,6 +281,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/minz95/leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/minz95/leetcode/tree/master/0079-word-search) |
+| [0490-the-maze](https://github.com/minz95/leetcode/tree/master/0490-the-maze) |
 | [0787-sliding-puzzle](https://github.com/minz95/leetcode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/minz95/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/minz95/leetcode/tree/master/0854-making-a-large-island) |
