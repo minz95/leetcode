@@ -27,6 +27,7 @@
 | [0490-the-maze](https://github.com/minz95/leetcode/tree/master/0490-the-maze) |
 | [0496-next-greater-element-i](https://github.com/minz95/leetcode/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/minz95/leetcode/tree/master/0502-ipo) |
+| [0505-the-maze-ii](https://github.com/minz95/leetcode/tree/master/0505-the-maze-ii) |
 | [0611-valid-triangle-number](https://github.com/minz95/leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/minz95/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/minz95/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -192,6 +193,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/minz95/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/minz95/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0490-the-maze](https://github.com/minz95/leetcode/tree/master/0490-the-maze) |
+| [0505-the-maze-ii](https://github.com/minz95/leetcode/tree/master/0505-the-maze-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/minz95/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/minz95/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/minz95/leetcode/tree/master/0684-redundant-connection) |
@@ -210,6 +212,7 @@
 | [0226-invert-binary-tree](https://github.com/minz95/leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/minz95/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0490-the-maze](https://github.com/minz95/leetcode/tree/master/0490-the-maze) |
+| [0505-the-maze-ii](https://github.com/minz95/leetcode/tree/master/0505-the-maze-ii) |
 | [0684-redundant-connection](https://github.com/minz95/leetcode/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/minz95/leetcode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/minz95/leetcode/tree/master/0794-swim-in-rising-water) |
@@ -223,6 +226,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/minz95/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/minz95/leetcode/tree/master/0207-course-schedule) |
+| [0505-the-maze-ii](https://github.com/minz95/leetcode/tree/master/0505-the-maze-ii) |
 | [0684-redundant-connection](https://github.com/minz95/leetcode/tree/master/0684-redundant-connection) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/minz95/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Tree
@@ -282,6 +286,7 @@
 | [0048-rotate-image](https://github.com/minz95/leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/minz95/leetcode/tree/master/0079-word-search) |
 | [0490-the-maze](https://github.com/minz95/leetcode/tree/master/0490-the-maze) |
+| [0505-the-maze-ii](https://github.com/minz95/leetcode/tree/master/0505-the-maze-ii) |
 | [0787-sliding-puzzle](https://github.com/minz95/leetcode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/minz95/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/minz95/leetcode/tree/master/0854-making-a-large-island) |
@@ -349,6 +354,7 @@
 | [0253-meeting-rooms-ii](https://github.com/minz95/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/minz95/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/minz95/leetcode/tree/master/0502-ipo) |
+| [0505-the-maze-ii](https://github.com/minz95/leetcode/tree/master/0505-the-maze-ii) |
 | [0658-find-k-closest-elements](https://github.com/minz95/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0794-swim-in-rising-water](https://github.com/minz95/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1014-k-closest-points-to-origin](https://github.com/minz95/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -506,4 +512,8 @@
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/minz95/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Shortest Path
+|  |
+| ------- |
+| [0505-the-maze-ii](https://github.com/minz95/leetcode/tree/master/0505-the-maze-ii) |
 <!---LeetCode Topics End-->
