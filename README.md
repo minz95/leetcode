@@ -19,6 +19,7 @@
 | [0252-meeting-rooms](https://github.com/minz95/leetcode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/minz95/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/minz95/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0348-design-tic-tac-toe](https://github.com/minz95/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/minz95/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0377-combination-sum-iv](https://github.com/minz95/leetcode/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/minz95/leetcode/tree/master/0403-frog-jump) |
@@ -158,6 +159,7 @@
 | [0139-word-break](https://github.com/minz95/leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/minz95/leetcode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/minz95/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0348-design-tic-tac-toe](https://github.com/minz95/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0424-longest-repeating-character-replacement](https://github.com/minz95/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/minz95/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/minz95/leetcode/tree/master/0496-next-greater-element-i) |
@@ -286,6 +288,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/minz95/leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/minz95/leetcode/tree/master/0079-word-search) |
+| [0348-design-tic-tac-toe](https://github.com/minz95/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0490-the-maze](https://github.com/minz95/leetcode/tree/master/0490-the-maze) |
 | [0505-the-maze-ii](https://github.com/minz95/leetcode/tree/master/0505-the-maze-ii) |
 | [0787-sliding-puzzle](https://github.com/minz95/leetcode/tree/master/0787-sliding-puzzle) |
@@ -400,6 +403,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0348-design-tic-tac-toe](https://github.com/minz95/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/minz95/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/minz95/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2479-meeting-rooms-iii](https://github.com/minz95/leetcode/tree/master/2479-meeting-rooms-iii) |
@@ -413,6 +417,7 @@
 | [0146-lru-cache](https://github.com/minz95/leetcode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/minz95/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/minz95/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0348-design-tic-tac-toe](https://github.com/minz95/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/minz95/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/minz95/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/minz95/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
