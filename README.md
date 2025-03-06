@@ -69,6 +69,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/minz95/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/minz95/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3034-points-that-intersect-with-cars](https://github.com/minz95/leetcode/tree/master/3034-points-that-intersect-with-cars) |
+| [3227-find-missing-and-repeated-values](https://github.com/minz95/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/minz95/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/minz95/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/minz95/leetcode/tree/master/3429-special-array-i) |
@@ -180,6 +181,7 @@
 | [2479-meeting-rooms-iii](https://github.com/minz95/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/minz95/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3034-points-that-intersect-with-cars](https://github.com/minz95/leetcode/tree/master/3034-points-that-intersect-with-cars) |
+| [3227-find-missing-and-repeated-values](https://github.com/minz95/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/minz95/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Depth-First Search
 |  |
@@ -284,6 +286,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/minz95/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/minz95/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/minz95/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/minz95/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
@@ -298,6 +301,7 @@
 | [1036-rotting-oranges](https://github.com/minz95/leetcode/tree/master/1036-rotting-oranges) |
 | [1242-matrix-block-sum](https://github.com/minz95/leetcode/tree/master/1242-matrix-block-sum) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/minz95/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/minz95/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Trie
 |  |
 | ------- |
