@@ -138,6 +138,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/minz95/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/minz95/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/minz95/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/minz95/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/minz95/leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/minz95/leetcode/tree/master/3447-clear-digits) |
 ## Stack
@@ -478,6 +479,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/minz95/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/minz95/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/minz95/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/minz95/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Monotonic Queue
 |  |
 | ------- |
