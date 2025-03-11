@@ -130,6 +130,7 @@
 | [1160-letter-tile-possibilities](https://github.com/minz95/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/minz95/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/minz95/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/minz95/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/minz95/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/minz95/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1894-merge-strings-alternately](https://github.com/minz95/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -173,6 +174,7 @@
 | [1160-letter-tile-possibilities](https://github.com/minz95/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/minz95/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/minz95/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/minz95/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/minz95/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/minz95/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/minz95/leetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
@@ -480,6 +482,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/minz95/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/minz95/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/minz95/leetcode/tree/master/0658-find-k-closest-elements) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/minz95/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/minz95/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/minz95/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/minz95/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
