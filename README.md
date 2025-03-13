@@ -75,6 +75,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/minz95/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/minz95/leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/minz95/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3643-zero-array-transformation-ii](https://github.com/minz95/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -350,6 +351,7 @@
 | [1192-divide-chocolate](https://github.com/minz95/leetcode/tree/master/1192-divide-chocolate) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/minz95/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/minz95/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/minz95/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -413,6 +415,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/minz95/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1983-maximum-population-year](https://github.com/minz95/leetcode/tree/master/1983-maximum-population-year) |
 | [3034-points-that-intersect-with-cars](https://github.com/minz95/leetcode/tree/master/3034-points-that-intersect-with-cars) |
+| [3643-zero-array-transformation-ii](https://github.com/minz95/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Simulation
 |  |
 | ------- |
