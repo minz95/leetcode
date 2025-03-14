@@ -48,6 +48,7 @@
 | [1129-longest-string-chain](https://github.com/minz95/leetcode/tree/master/1129-longest-string-chain) |
 | [1192-divide-chocolate](https://github.com/minz95/leetcode/tree/master/1192-divide-chocolate) |
 | [1242-matrix-block-sum](https://github.com/minz95/leetcode/tree/master/1242-matrix-block-sum) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/minz95/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/minz95/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1364-tuple-with-same-product](https://github.com/minz95/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/minz95/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -349,6 +350,7 @@
 | [0907-koko-eating-bananas](https://github.com/minz95/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0910-nth-magical-number](https://github.com/minz95/leetcode/tree/master/0910-nth-magical-number) |
 | [1192-divide-chocolate](https://github.com/minz95/leetcode/tree/master/1192-divide-chocolate) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/minz95/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/minz95/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/minz95/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/minz95/leetcode/tree/master/3643-zero-array-transformation-ii) |
