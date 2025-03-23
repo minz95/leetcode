@@ -107,6 +107,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/minz95/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/minz95/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/minz95/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/minz95/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Greedy
 |  |
 | ------- |
@@ -249,6 +250,7 @@
 | [0207-course-schedule](https://github.com/minz95/leetcode/tree/master/0207-course-schedule) |
 | [0505-the-maze-ii](https://github.com/minz95/leetcode/tree/master/0505-the-maze-ii) |
 | [0684-redundant-connection](https://github.com/minz95/leetcode/tree/master/0684-redundant-connection) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/minz95/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/minz95/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/minz95/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/minz95/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -539,6 +541,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/minz95/leetcode/tree/master/0207-course-schedule) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/minz95/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/minz95/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Counting
 |  |
@@ -567,6 +570,7 @@
 |  |
 | ------- |
 | [0505-the-maze-ii](https://github.com/minz95/leetcode/tree/master/0505-the-maze-ii) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/minz95/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Number Theory
 |  |
 | ------- |
