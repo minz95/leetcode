@@ -80,6 +80,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/minz95/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/minz95/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/minz95/leetcode/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/minz95/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/minz95/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/minz95/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/minz95/leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -423,6 +424,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/minz95/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/minz95/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/minz95/leetcode/tree/master/2479-meeting-rooms-iii) |
+| [3430-count-days-without-meetings](https://github.com/minz95/leetcode/tree/master/3430-count-days-without-meetings) |
 ## Prefix Sum
 |  |
 | ------- |
