@@ -51,6 +51,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/minz95/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/minz95/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1364-tuple-with-same-product](https://github.com/minz95/leetcode/tree/master/1364-tuple-with-same-product) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/minz95/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/minz95/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/minz95/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/minz95/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -303,6 +304,7 @@
 | [0066-plus-one](https://github.com/minz95/leetcode/tree/master/0066-plus-one) |
 | [0910-nth-magical-number](https://github.com/minz95/leetcode/tree/master/0910-nth-magical-number) |
 | [1014-k-closest-points-to-origin](https://github.com/minz95/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/minz95/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/minz95/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/minz95/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/minz95/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
